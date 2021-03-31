@@ -5,7 +5,8 @@ A Movie Recommendation and review system. Data taken from IMDB. Used collaborati
 - Multilingual, Movies available in almost all the languages.
 - Autocomplete Option, Suggests movie names.
 <p align='center'>
-<img src="https://github.com/abhishek-parashar/Binge-Watcher/blob/main/static/Images/1.jpeg">
+![image](https://user-images.githubusercontent.com/78199382/113112868-4e4d4a00-9227-11eb-9ee2-4bbbc55d1de7.png)
+
 </p>
 
 - Details about the cast and information about the cast
