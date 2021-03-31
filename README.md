@@ -16,9 +16,9 @@ Check out the live demo: https://bingewatcherdamodharsai.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/78199382/113113909-6b364d00-9228-11eb-81d9-037b9859b73c.png)
 
-Details about the cast and information about the cast
-
 ![image](https://user-images.githubusercontent.com/78199382/113113977-83a66780-9228-11eb-9cd1-b6738038beda.png)
+
+Details about the cast and information about the cast
 
 ![image](https://user-images.githubusercontent.com/78199382/113114151-b05a7f00-9228-11eb-971c-a4634cc8b1ca.png)
 
