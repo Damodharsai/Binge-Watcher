@@ -24,6 +24,9 @@ Details about the cast and information about the cast
 
 ![image](https://user-images.githubusercontent.com/78199382/113114291-d08a3e00-9228-11eb-8baf-5ea4081e8776.png)
 
+![image](https://user-images.githubusercontent.com/78199382/113116441-121be880-922b-11eb-9bfa-532b8f823a55.png)
+
+
 Reviews regarding the particular movie, classification as positive or negative review
 
 ![image](https://user-images.githubusercontent.com/78199382/113114401-edbf0c80-9228-11eb-8015-6f62bf2cda05.png)
