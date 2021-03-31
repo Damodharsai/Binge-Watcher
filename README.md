@@ -8,9 +8,15 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 # Link to the application
 Check out the live demo: https://bingewatcherdamodharsai.herokuapp.com/
 
+# Functionalities
+1) Multilingual Movies are available in almost all the languages.
+2) Autocomplete Option suggests movie names.
+
 ![image](https://user-images.githubusercontent.com/78199382/113113823-50fc6f00-9228-11eb-8d25-d76e8d0d16ce.png)
 
 ![image](https://user-images.githubusercontent.com/78199382/113113909-6b364d00-9228-11eb-81d9-037b9859b73c.png)
+
+Details about the cast and information about the cast
 
 ![image](https://user-images.githubusercontent.com/78199382/113113977-83a66780-9228-11eb-9cd1-b6738038beda.png)
 
@@ -18,7 +24,11 @@ Check out the live demo: https://bingewatcherdamodharsai.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/78199382/113114291-d08a3e00-9228-11eb-8baf-5ea4081e8776.png)
 
+Reviews regarding the particular movie, classification as positive or negative review
+
 ![image](https://user-images.githubusercontent.com/78199382/113114401-edbf0c80-9228-11eb-8015-6f62bf2cda05.png)
+
+Recommends movies,the movies similar to the particular movie.
 
 ![image](https://user-images.githubusercontent.com/78199382/113114525-0deecb80-9229-11eb-9b6b-4c2fe0c1dcc7.png)
 
